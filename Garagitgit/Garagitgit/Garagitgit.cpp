@@ -1,15 +1,13 @@
-﻿
+
 #include <iostream>
 #include <string>
-using namespace std;
-
 using namespace std;
 
 int main()
 {
 
-    std::cout << "Hello Colllaboration\n";
-    std::cout << "My name is Jinho Lee\n";
+    cout << "Hello Colllaboration\n";
+    cout << "My name is Jinho Lee\n";
 
     cout << "Hello!!! ^ㅡㅡㅡ^" << endl;
     cout << "Hello collaboration!\n";
